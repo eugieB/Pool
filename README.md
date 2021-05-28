@@ -7,16 +7,26 @@ A sign in social website to tackle the demand for better CSS in the Training Roo
 * Visual Studio Code
 * Notepad
 
+***
 # Price:
- R2.00 for local Printshop for one page. 
- 
+Airtime price varies
+* MTN 
+* Vodacom
+* Telkom
+* Cell C
+
+***
 # Platform: 
 * Internet Edge
 * Google Chrome 
 * Safari IOS 10
 
+***
 # Pegi 10:
 * Rated 10 for online seekers 
+
+# Location:
+Pan - South Africa
 
 # Source: 
 <a href = "https://edu.gcfglobal.org/en/" > Subscribe <a/> 
